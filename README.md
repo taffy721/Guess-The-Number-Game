@@ -6,7 +6,7 @@ For this game, you will need to guess a random number within 10 attempts. After 
 How to use:
 
 1.Clone the repo:
-git clone https://github.com/YOUR_USERNAME/number-guessing-game.git
+git clone https://github.com/taffy721/Guess-The-Number-Game.git
 
 2.Go into the folder:
 cd number-guessing-game
