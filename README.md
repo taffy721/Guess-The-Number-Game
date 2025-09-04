@@ -1,20 +1,22 @@
-# Guess-The-Number-Game
-Description:
+# Text based number guessing game  
 
-For this game, you will need to guess a random number within 10 attempts. After each guess, you will be told if the number is higher or lower than the number you guessed.
+A simple command-line number guessing game where you try to guess a random number within a limited number of attempts.  
 
-How to use:
+---
 
-1.Clone the repo:
-git clone https://github.com/taffy721/Guess-The-Number-Game.git
+## Features  
+- Choose between four difficulties: Easy, Medium, Hard, and Extreme.  
+- You get 10 attempts to guess the number.  
+- Tells you if the secret number is higher or lower than your guess.  
+- Prevents repeating guesses by warning if you already tried a number.  
 
-2.Go into the folder:
+---
+
+## Usage  
+
+Clone the repository, go into the folder, and run the program:  
+
+```bash
+git clone https://github.com/your-username/number-guessing-game.git
 cd number-guessing-game
-
-3.Run the script:
-python guess.py
-
-Requirements:
-
-Python:
-https://www.python.org/downloads/
+python guessing_game.py
